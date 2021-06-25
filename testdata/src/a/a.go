@@ -1,7 +1,12 @@
 package a
 
-func f() {
-	// The pattern can be written in regular expression.
-	var gopher int // want "pattern"
-	print(gopher)  // want "identifier is gopher"
+// Hoge ...
+type Hoge struct {
+	HogeName string // => Name
+	HogeID   int    // => ID
+}
+
+type Fuga struct {
+	FugaName string // => Name
+	FugaID   int    // => ID
 }
