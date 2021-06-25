@@ -1,4 +1,4 @@
-# takelton
+# takeleton
 
 To make things easier for me, I have automated the review process.
 
