@@ -9,13 +9,13 @@ To make things easier for me, I have automated the review process.
 #### `go version` <= go 1.15
 
 ```bash
-GO111MODULE=off go get github.com/bushiyama/takelton/cmd/takelton
+GO111MODULE=off go get github.com/bushiyama/takeleton/cmd/takeleton
 ```
 
 #### `go version` >= go 1.16
 
 ```bash
-go install github.com/bushiyama/takelton/cmd/takelton@latest
+go install github.com/bushiyama/takeleton/cmd/takeleton@latest
 ```
 
 ### Usage
